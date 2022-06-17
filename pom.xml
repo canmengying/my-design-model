@@ -19,7 +19,7 @@
         <timestamp>${maven.build.timestamp}</timestamp>
         <project.encoding>utf-8</project.encoding>
         <maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
-        <fastjson.version>1.2.60</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
